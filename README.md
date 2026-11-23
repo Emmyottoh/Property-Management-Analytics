@@ -1,25 +1,41 @@
-# Commercial Property & Asset Management Intelligence Dashboard
+# Property Management Executive Performance Dashboard
 
 ## Project Overview
-Property managers and real estate asset officers need clear financial visibility into building occupancy rates, tenant lease schedules, and maintenance overhead to maximize rental yield and preserve property capital[cite: 2]. This project delivers an interactive spreadsheet intelligence model built in Microsoft Excel to audit dynamic property cash flows and tenant performance[cite: 2].
+
+An interactive Microsoft Excel dashboard designed to analyze property portfolio performance, rental values, rent escalation trends, tenant categories, and geographical distribution.
+
+The project examines **4,745 properties**, presenting key operational and rental performance indicators in an executive reporting format.
+
+## Executive Dashboard
 
 <img width="1314" height="556" alt="Property_Management_Executive_Dashboard_" src="https://github.com/user-attachments/assets/b01ede21-fd47-4a37-b0ff-9d5f4b2191c6" />
 
+## Key Performance Indicators
+
+- **Total Properties Analyzed:** 4,745
+- **Overall Average Rent:** $34,998
+
 ## Technical Stack & Tools
-* **Spreadsheet Analytics:** Microsoft Excel, Dynamic PivotTables, Dynamic Array Functions, Advanced Lookup Formulas[cite: 2]
-* **Data Engineering & ETL:** Power Query, Data Cleaning, Normalization, Quality Auditing[cite: 1, 2]
-* **Core Competencies:** Analytical Skills, Statistics, Data Modeling, Financial Auditing, Asset Management, Executive Communication[cite: 2]
 
-## Key Features & Business Impact
-* **Portfolio Performance Tracking:** Constructed an interactive Excel management dashboard monitoring occupancy rates, rental yield trajectories, lease expiration timelines, and maintenance expenditures[cite: 2].
-* **Financial & Revenue Auditing:** Applied advanced **Data Modeling** and Excel array logic to project cash flows, track tenant delinquency rates, and audit outstanding rental balances[cite: 2].
-* **Property Benchmarking Matrix:** Built visual summary structures comparing tenant turnover rates, repair response timelines, and square-footage profitability across multi-location real estate assets[cite: 2].
-* **Statistical Yield Analysis:** Utilized descriptive **Statistics** to evaluate historical rent collections and forecast quarterly property income[cite: 2].
+- **Microsoft Excel:** Dashboard development and reporting
+- **PivotTables and PivotCharts:** Data summarization and visualization
+- **Excel Slicers:** Interactive filtering and exploration
+- **Data Analysis:** Rental comparisons and property segmentation
 
-## Data Pipeline & Methodology
-1. **Data Structuring:** Normalized raw property, lease, and tenant transactional ledgers using **Power Query** and **Microsoft Excel**[cite: 2].
-2. **Dynamic Modeling:** Implemented dynamic pivot charts and nested array formulas to calculate net operating income (NOI) and occupancy metrics automatically[cite: 2].
-3. **Executive Communication:** Formatted clean visual KPI summary cards enabling asset managers to communicate financial health effectively to stakeholders[cite: 2].
+## Analytical Features
 
----
-*Developed by Emmanuel Ottoh | Data Analyst & BI Developer*[cite: 1, 2]
+- **Rental Price Escalation:** Visualizes rental values across the dashboard's displayed categories.
+- **Average Rent by BHK:** Compares rental values by property bedroom configuration.
+- **Tenant Type Distribution:** Examines the composition of properties across tenant categories.
+- **City-Level Analysis:** Enables exploration of property records across different cities.
+- **Furnishing Status:** Supports filtering by furnished, semi-furnished, and unfurnished properties.
+- **Area Type Segmentation:** Enables analysis by property area classifications.
+
+## Business Value
+
+The dashboard provides a consolidated view of rental performance and property distribution, helping users explore pricing differences, identify portfolio patterns, and support data-informed property management decisions.
+
+## Project Author
+
+**Emmanuel Ottoh**  
+Data Analyst | Excel Dashboard Developer | Business Intelligence
