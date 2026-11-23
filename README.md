@@ -8,7 +8,7 @@ The project examines **4,745 properties**, presenting key operational and rental
 
 ## Executive Dashboard
 
-<img width="1314" height="556" alt="Property_Management_Executive_Dashboard_" src="https://github.com/user-attachments/assets/b01ede21-fd47-4a37-b0ff-9d5f4b2191c6" />
+<img width="1672" height="941" alt="Property Management Dashboard-Excel" src="https://github.com/user-attachments/assets/53d0578e-8cba-4b1f-ba92-a8763eaeda0a" />
 
 ## Key Performance Indicators
 
