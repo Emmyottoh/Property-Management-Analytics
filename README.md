@@ -35,7 +35,13 @@ The project examines **4,745 properties**, presenting key operational and rental
 
 The dashboard provides a consolidated view of rental performance and property distribution, helping users explore pricing differences, identify portfolio patterns, and support data-informed property management decisions.
 
-## Project Author
+---
+
+## Download Interactive Excel Dashboard
+
+[Download Property Management Excel Dashboard](./Property-Management-Excel-Dashboard.xlsx?raw=true)
+
+---
 
 **Emmanuel Ottoh**  
 Data Analyst | Excel Dashboard Developer | Business Intelligence
